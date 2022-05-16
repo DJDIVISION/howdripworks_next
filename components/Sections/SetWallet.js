@@ -15,7 +15,7 @@ import {IconButton} from "@mui/material";
 import {Title, Subtitle, InfoIcon, InfoIconSmart, InfoIconNotif, InfoBox, InfoIconRow, InfoTextRow, Navigation, DArrowDownHolder, DArrowUpHolder, ArrowUp, ArrowDown, Lightbox} from "./Elements";
 
 const Section = styled.div`
-    width: 100%;
+    width: 100vw;
     height: 100vh;
     display: flex;
     flex-direction: column;
