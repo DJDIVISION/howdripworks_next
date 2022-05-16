@@ -12,8 +12,8 @@ export default function Home() {
      <Header />
     <NavBar />
      <WhatisDrip />
-     <SetWallet />
-     <GetStarted />
+     {/* <SetWallet />
+     <GetStarted /> */}
     </div>
   )
 }
