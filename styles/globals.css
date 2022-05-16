@@ -3,7 +3,10 @@
   src: local('Aquino-Demo'), url('../fonts/Aquino-Demo.ttf') format('truetype');
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Gruppo&display=swap');
+@font-face {
+  font-family: 'Gruppo';
+  src: local('gruppo.regular'), url('../fonts/gruppo.regular.ttf') format('truetype');
+}
 
 
 html,

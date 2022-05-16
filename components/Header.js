@@ -11,12 +11,12 @@ const Header = () => {
     <meta property="og:url" content="https://howdripworks.com/" />
     <meta property="og:title" content="How Drip Works" />
     <meta property="og:description" content="Get to know everything about the Drip Network and join the team with the highest reward system" />
-    <meta property="og:image" content="%PUBLIC_URL%/Meta.png" />
+    <meta property="og:image" content="/Meta.png" />
     <meta property="twitter:card" content="summary_large_image" />
     <meta property="twitter:url" content="https://howdripworks.com/" />
     <meta property="twitter:title" content="How Drip Works" />
     <meta property="twitter:description" content="Get to know everything about the Drip Network and join the team with the highest reward system" />
-    <meta property="twitter:image" content="%PUBLIC_URL%/Meta.png" />
+    <meta property="twitter:image" content="/Meta.png" />
   </Head>
   )
 }

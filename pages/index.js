@@ -5,7 +5,7 @@ import NavBar from "../components/NavBar"
 
 export default function Home() {
   return (
-    <div className={styles.container}>
+    <div >
      <Header />
     <NavBar />
      <h1>Wabbit, you suck!!!</h1>
